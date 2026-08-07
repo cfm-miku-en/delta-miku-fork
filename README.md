@@ -25,9 +25,7 @@ https://discord.gg/dfPwhRtGVZ
 ## important server note
 
 - **debug builds** connect to osu!dev server
-- **release builds** connect to official osu! server
-
-i **DO NOT** recommend building for release as this currently doesn't have systems in place that make it safe to use in the official osu! server
+- **release builds** connect to osu!dev server too
 
 ## quick build (desktop)
 
